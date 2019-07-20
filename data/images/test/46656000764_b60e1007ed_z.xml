@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>46656000764_b60e1007ed_z.jpg</filename>
+	<path>C:\Users\Frank\Documents\MSc Data Science\AC53014 Machine Learning\Assignments\object_detection\data\images\train\46656000764_b60e1007ed_z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F1 Car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>98</ymin>
+			<xmax>631</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>
